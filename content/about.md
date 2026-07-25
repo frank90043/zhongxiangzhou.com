@@ -1,7 +1,8 @@
 +++
 date = '2026-07-25T13:09:38+08:00'
-draft = true
-title = 'About'
+draft = false
+title = '關於作者'
+layout = 'single'
 +++
 男，漢族，江蘇南通人，1988年生於中國臺灣臺北，祖籍浙江紹興。
 
