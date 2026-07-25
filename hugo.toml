@@ -1,0 +1,12 @@
+baseURL = "https://zhongxiangzhou.com/"
+languageCode = "zh-tw"
+title = "Zhongxiang Zhou"
+theme = "PaperMod"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "關於作者"
+    url = "/about/"
+    weight = 1
