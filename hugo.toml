@@ -1,6 +1,6 @@
 baseURL = "https://zhongxiangzhou.com/"
 languageCode = "zh-tw"
-title = "Zhongxiang Zhou"
+title = "周仲翔的文學空間"
 theme = "PaperMod"
 
 [menu]
@@ -10,3 +10,15 @@ theme = "PaperMod"
     name = "關於作者"
     url = "/about/"
     weight = 1
+
+  [[menu.main]]
+    identifier = "copyright"
+    name = "版權與使用說明"
+    url = "/copyright/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "changelog"
+    name = "更新記錄"
+    url = "/changelog/"
+    weight = 3
